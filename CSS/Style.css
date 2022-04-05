@@ -80,7 +80,7 @@
             
             #home::before {
                 content: "";
-                background: url("bg1.jpg") no-repeat center/cover;
+                background: url("../bg1.jpg") no-repeat center/cover;
                 position: absolute;
                 height: 642px;
                 top: 0px;
